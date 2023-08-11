@@ -6,7 +6,7 @@ const grantAccessContainer = document.querySelector(".grant-location-container")
 const searchForm = document.querySelector("[data-searchForm]");
 const loadingScreen = document.querySelector(".loading-container");
 const userInfoContainer = document.querySelector(".user-info-container");
-const notFound = document.querySelector("[data-notFound]")
+const notFound = document.querySelector("[data-notFound]");
 
 //initially vairables need????
 

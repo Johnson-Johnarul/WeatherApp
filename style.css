@@ -232,3 +232,15 @@ h1{
     height: 150px;
 }
 
+@media screen and (max-width: 480px) {
+    .parameter p:first-of-type{
+        font-size: 0.8rem;
+    }
+    .parameter p:last-of-type{
+        font-size: 0.7rem;
+    }
+    .parameter img{
+        width: 35px;
+        height: 35px;
+    }
+  }
